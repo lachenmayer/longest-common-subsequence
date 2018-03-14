@@ -1,6 +1,6 @@
 {
   "name": "@lachenmayer/longest-common-subsequence",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Finds the longest common subsequence of two strings, and the diff between them.",
   "author": "harry lachenmayer <harrylachenmayer@gmail.com>",
   "keywords": [
